@@ -6,7 +6,7 @@ instance.
 
 ### Deploying Glados
 
-First, set the environment variables:
+Firsts, set the environment variables:
 
 - `GLADOS_POSTGRES_DATA_DIR` to the directory
 where Postgres should store its data on the host machine.
